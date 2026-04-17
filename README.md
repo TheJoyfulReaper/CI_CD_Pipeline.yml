@@ -1,0 +1,1 @@
+ GitHub Actions pipeline with lint, matrix testing, SAST scanning (Bandit, Semgrep, Trivy), Docker build with caching, blue/green ECS deployment, and Slack alerts. Shows DevOps and security automation.
